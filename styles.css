@@ -48,17 +48,22 @@ img{
 
 .icons3{
     display: flex;
-    margin-left:100px;
-    margin:0px 200px 0 150px;
-    font-size:30px
+    font-size:30px;
+    padding-left: 2%;
+    padding-right: 2%;
     
+
+   }
+.icons3 i{
+    margin: 0px;
+    margin-right: 5px;
     
-    }
+   }
 .icons4{
+    font-size:30px;
+    margin-left: auto;
+
     
-    display:flex;
-    font-size:30px
-    margin:20px;
     
 }
 
